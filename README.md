@@ -2,7 +2,7 @@
 # Portfolio
  Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
  
-[Visit Demo Website Hosted by Heroku](https://dashboard.heroku.com/apps/portfolio-joyce1/deploy/github)
+[Visit Demo Website Hosted by Heroku](https://portfolio-joyce1.herokuapp.com)
 
 
 ## Tech used
